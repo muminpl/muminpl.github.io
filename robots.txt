@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muminpl.github.io/sitemap/sitemap.txt
